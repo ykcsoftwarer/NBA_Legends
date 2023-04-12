@@ -1,5 +1,5 @@
 <p>JOSEPH SOFTWARER<img align="right"
-  src="https://www.linkedin.com/in/yusuf-kucukcopur/"  width="15px"></p>
+  src=""  width="15px"></p>
 
 <br>
 
