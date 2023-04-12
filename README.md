@@ -3,7 +3,7 @@
 
 <br>
 
-# Project-002: NBA Legends App (RP-02)
+# NBA Legends App
 
 ## Description
 
@@ -16,7 +16,7 @@ Project aims to create a Languages Cards App.
 ## Project Skeleton
 
 ```
-002-NBA Legends(folder)
+NBA Legends(folder)
 |
 |----readme.md         # Given to the students (Definition of the project)
 SOLUTION
